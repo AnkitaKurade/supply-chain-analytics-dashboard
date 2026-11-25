@@ -8,7 +8,7 @@ The dashboards combine KPI cards, charts, filters, and data visualization techni
 
 ## 📊 Dashboard 1: Supplier-Side Analysis
 
-![Supplier-Side Dashboard](Images/𝗦upplier-𝗦𝗶𝗱𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱.png)
+![Supplier-Side Dashboard](https://github.com/AnkitaKurade/supply-chain-analytics-dashboard/blob/main/Images/Supplier%F0%9D%97%BF-side-dashboard.png))
 
 ### Key Insights
 
@@ -20,7 +20,7 @@ The dashboards combine KPI cards, charts, filters, and data visualization techni
 
 ## 📊 Dashboard 2: Customer-Side Analysis
 
-![Customer-Side Dashboard](Images/Custome𝗿-𝗦𝗶𝗱𝗲 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱.png)
+![Customer-Side Dashboard](https://github.com/AnkitaKurade/supply-chain-analytics-dashboard/blob/main/Images/Custome%F0%9D%97%BF-side-dashboard.png)
 
 ### Key Insights
 
